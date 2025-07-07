@@ -1,5 +1,5 @@
 # ftmanager
-Fussball-Turnier im Browser 4 Juli 2025 Delphi TMS Web core.
+Fussball-Turnier im Browser 4 Juli 2025(Delphi TMS Web core)
 -Gruppe bis zu 6 Mannschaften.
 -Spiele mit Ergebnis eingeben.
 -Tabelle sortiert erstellt.
